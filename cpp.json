@@ -1,0 +1,17 @@
+{
+    "boilerplate": {
+        "prefix": "boilerplate code",
+        "body": [
+            "#include <iostream>",
+			// "#include <cstdlib>",
+            "using namespace std;",
+            "",
+            "int main() {",
+			// "\tsystem(\"cls\");",
+            "\t$1",
+            "\treturn 0;",
+            "}"
+        ],
+        "description": "Kode dasar untuk memulai membuat program sederhana dengan C++"
+	}
+}
